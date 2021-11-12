@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 import math
-# //Hello
+
 
 video = cv2.VideoCapture(0)
 
